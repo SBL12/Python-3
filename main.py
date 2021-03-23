@@ -23,3 +23,24 @@ elif number2< 10:
     print("Number is less than 10!")
 else: 
     print("Number is 10!")
+
+
+
+count = 1
+
+while (count < 10):
+  print ("Counting...")
+  count = count + 1
+  print(count)
+
+
+  count2 = 10
+
+  while (count2 > 0):
+    print ("Counting...")
+    count2 = count2 - 1
+    print (count2)
+
+
+
+    
